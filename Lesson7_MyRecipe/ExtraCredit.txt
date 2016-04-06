@@ -1,0 +1,5 @@
+1)In myRecipe I changes the h3 headers to have an orange background and then a yellow background as you hover over them.
+2)For the animation I toggled the width instead of the height.
+3)You must click on the headers to open them, rather than hover.
+4)I added the ability to have a yellow highlight over ingredients as you hover over them.
+5) I also centered the headers on the page
